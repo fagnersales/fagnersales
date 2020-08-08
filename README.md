@@ -17,6 +17,12 @@
 
 ---
 
+### 📺 Vídeos mais recentes:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 <br />
 <br />
 
