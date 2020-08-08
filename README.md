@@ -18,8 +18,7 @@
 <br />
 
 ### Canais que recomendo:
-<ol>
-
+<ul>
     <li>[<img alt="Filipe Deschamps" width="35px" margin-top="25px" src="https://yt3.ggpht.com/a/AATXAJxiC0ILNRKn_1sIcE6LcCsRrEVkDCGhpTdMRDJS=s100-c-k-c0xffffffff-no-rj-mo">][FilipeDeschamps] **Filipe Deschamps**</li>
 
     <li>[<img alt="Roger Melo" width="35px" margin-top="25px" src="https://yt3.ggpht.com/a/AATXAJwwI62iTGTB2SAiZpY7ZLIz2YzmpaI_p3R693h2=s176-c-k-c0x00ffffff-no-rj-mo">][RogerMelo] **Roger Melo**</li>
@@ -29,7 +28,7 @@
     <li>[<img alt="Rocket Seat" width="35px" margin-top="25px" src="https://yt3.ggpht.com/a/AATXAJwkv2bEEy5BKZkZcfjjO2Am82VTEtnrbG85pVhVrA=s176-c-k-c0x00ffffff-no-rj-mo">][RocketSeat] **RocketSeat**</li>
 
     <li>[<img alt="Rocket Seat" width="35px" margin-top="25px" src="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo">][LucasMontano] **Lucas Montano**</li>
-</ol>
+</ul>
 
 
 
