@@ -8,7 +8,7 @@
     - Começar projetos pessoais;
 
 ## Entre em contato comigo pelo Discord:
-<img align="left" alt="Discord's Fagner" width="22px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png">Fagner.#8917
+[<img align="left" alt="Discord's Fagner" width="22px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png">][Narnia]Fagner.#8917
 
 <br />
 
