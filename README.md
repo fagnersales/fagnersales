@@ -19,8 +19,10 @@
 
 ### Canais que recomendo:
 - [**Filipe Deschamps**][FilipeDeschamps]
-- [Roger Melo](RogerMelo)
-- [Programador BR][ProgramadorBR]
+- [**Programador BR**][ProgramadorBR]
+- [**Lucas Montano**][LucasMontano]
+- [**RocketSeat**][RocketSeat]
+- [**Roger Melo**][RogerMelo]
 
 ---
 
