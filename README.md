@@ -12,8 +12,13 @@
 
 <br />
 
-### Language and Tools
-- Nothing here yet 🙄
+### Linguagens e Ferramentas
+- Nada aqui ainda 🙄
+
+<br />
+
+### Canais que recomendo:
+- [<img align="left" alt="Filipe Deschamps" width="22px" src="https://yt3.ggpht.com/a/AATXAJxiC0ILNRKn_1sIcE6LcCsRrEVkDCGhpTdMRDJS=s100-c-k-c0xffffffff-no-rj-mo">][FilipeDeschamps] Filipe Deschamps
 
 ---
 
@@ -27,3 +32,6 @@
 <br />
 
 [Narnia]: https://discord.gg/nuww3nt
+
+
+[FilipeDeschamps]: https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw
