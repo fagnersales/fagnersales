@@ -18,11 +18,11 @@
 <br />
 
 ### Canais que recomendo:
-- [<img align="left" alt="Filipe Deschamps" width="22px" src="https://yt3.ggpht.com/a/AATXAJxiC0ILNRKn_1sIcE6LcCsRrEVkDCGhpTdMRDJS=s100-c-k-c0xffffffff-no-rj-mo">][FilipeDeschamps]**Filipe Deschamps**
-- [<img align="left" alt="Roger Melo" width="22px" src="https://yt3.ggpht.com/a/AATXAJwwI62iTGTB2SAiZpY7ZLIz2YzmpaI_p3R693h2=s176-c-k-c0x00ffffff-no-rj-mo">][RogerMelo]**Roger Melo**
-- [<img align="left" alt="Igor Oliveira" width="22px" src="https://yt3.ggpht.com/a/AATXAJzuOa543WlNN0Z2z_y7mLVBJd1d8DFE1IqYZ5B2Vg=s176-c-k-c0x00ffffff-no-rj-mo">][ProgramadorBR]**Programador BR**
-- [<img align="left" alt="Rocket Seat" width="22px" src="https://yt3.ggpht.com/a/AATXAJwkv2bEEy5BKZkZcfjjO2Am82VTEtnrbG85pVhVrA=s176-c-k-c0x00ffffff-no-rj-mo">][RocketSeat]**RocketSeat**
-- [<img align="left" alt="Rocket Seat" width="22px" src="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo">][LucasMontano]**Lucas Montano**
+- [<img alt="Filipe Deschamps" width="35px" src="https://yt3.ggpht.com/a/AATXAJxiC0ILNRKn_1sIcE6LcCsRrEVkDCGhpTdMRDJS=s100-c-k-c0xffffffff-no-rj-mo">][FilipeDeschamps]**Filipe Deschamps**
+- [<img alt="Roger Melo" width="35px" src="https://yt3.ggpht.com/a/AATXAJwwI62iTGTB2SAiZpY7ZLIz2YzmpaI_p3R693h2=s176-c-k-c0x00ffffff-no-rj-mo">][RogerMelo]**Roger Melo**
+- [<img alt="Igor Oliveira" width="35px" src="https://yt3.ggpht.com/a/AATXAJzuOa543WlNN0Z2z_y7mLVBJd1d8DFE1IqYZ5B2Vg=s176-c-k-c0x00ffffff-no-rj-mo">][ProgramadorBR]**Programador BR**
+- [<img alt="Rocket Seat" width="35px" src="https://yt3.ggpht.com/a/AATXAJwkv2bEEy5BKZkZcfjjO2Am82VTEtnrbG85pVhVrA=s176-c-k-c0x00ffffff-no-rj-mo">][RocketSeat]**RocketSeat**
+- [<img alt="Rocket Seat" width="35px" src="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo">][LucasMontano]**Lucas Montano**
 
 ---
 
