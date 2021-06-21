@@ -1,22 +1,5 @@
 ### Olá, eu sou o Fagner! 👋
 
-## I am a developer looking for help others people!
-- 👩‍💻 Programming using Node for 2 years;
-- 💭 Trying to learn React & React Native;
-- 💖 Goals for 2020: 
-    - 🎥 Start a YouTube Channel;
-    - 📈 Start personal projects;
-
-## Contact with me on Discord:
-<img align="left" alt="Discord's Fagner." width="22px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png">Fagner.#8917
-
-<br />
-
-### Languages and Tools
-- Nothing here yet 🙄
-
-<br />
-
 ### Channels that I suggest you:
 - [**Filipe Deschamps**][FilipeDeschamps]
 - [**Programador BR**][ProgramadorBR]
