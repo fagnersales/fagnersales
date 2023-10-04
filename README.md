@@ -3,7 +3,7 @@ Fullstack developer trying to build great things. And I kind of have a blog, you
 ## Projects I am working on
 
 ### Flow Link Tree
-A link tree for each episode of the [Flow Podcast](https://www.youtube.com/@FlowPodcast), you can visit one of the episodes (here)[https://flowtree.link/274]
+A link tree for each episode of the [Flow Podcast](https://www.youtube.com/@FlowPodcast), you can visit one of the episodes [here](https://flowtree.link/274)
 
 ### DSCME
 A linktree-style page for sharing your own social medias in a fancy way, highly customizable and it comes with a short link for you! You can visit mine [dscme.link/fagnersales](https://dscme.link/fagnersales)
